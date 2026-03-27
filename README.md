@@ -30,4 +30,4 @@ Stored procedures
 
 📊 Outcome
 A clean, consistent table with correct data types, normalized values, and ready-to-use metrics for business intelligence tools like Power BI or Excel.
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
